@@ -3,20 +3,21 @@
 ![LinkedIn Badge](https://img.shields.io/badge/-Avik%20Pramanick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avik-iitian/) 
 ![Gmail Badge](https://img.shields.io/badge/-avik.pramanick@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avik.pramanick@gmail.com)
 
+![Profile Visitors](https://komarev.com/ghpvc/?username=Avikg&color=green)
+
 ## 👨‍💻 About Me:
 🎓 M.Tech in Computer Science and Engineering from **IIT Kharagpur**  
 💻 Prior experience with **Python**, **C**, **C++**, **Java**, **HTML**, **CSS**, **JavaScript**  
-🌐 Skilled in **Machine Learning**, **Deep Learning**, **Docker**, **Software Development**, and **Socket Programming**  
+🌐 Skilled in **ReactJS**, **VueJS**, **Docker**, and **Socket Programming**  
+📚 **Undergraduate Degree:** B.Tech in Computer Science from Govt. College of Engineering and Textile Technology, Serampore  
 
 ---
 
-## 🚀 My Projects:
-Here are some of my projects:
-- [View All Projects on GitHub](https://github.com/Avikg/projects) 📂
-- **Classification of TSS Signals for Association with hg-19 Cage Tags**
-  - Web Server: [CAGE Tag](https://cosmos.iitkgp.ac.in/CAGETag/)
-- **DeepPROTECTNeo**
-  - Web Server: [DeepPROTECTNeo](https://cosmos.iitkgp.ac.in/DeepPROTECTNeo/)
+## 🚀 What I Do:
+- 💡 Competitive Coder and Problem Solver  
+- 💻 Full Stack Developer with a focus on creating innovative solutions  
+- 🤝 Passionate about contributing to **Open Source**  
+- 🌟 Deep interest in **AI/ML**, **Deep Learning**, and **Distributed Systems**
 
 ---
 
@@ -30,8 +31,8 @@ Here are some of my projects:
 
 ## 🔗 My Profiles:
 - [LinkedIn](https://www.linkedin.com/in/avik-iitian/)
-- [GitHub](https://github.com/Avikg)
-- [View My Projects](https://github.com/Avikg/projects)
+- [GitHub Projects Repository](https://github.com/Avikg/projects)
+- [GitHub Profile](https://github.com/Avikg)
 
 ---
 
