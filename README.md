@@ -7,8 +7,8 @@
 
 ## 👨‍💻 About Me:
 🎓 M.Tech in Computer Science and Engineering from **IIT Kharagpur**  
-💻 Prior experience with **Python**, **C**, **C++**, **Java**, **HTML**, **CSS**, **JavaScript**  
-🌐 Skilled in **ReactJS**, **VueJS**, **Docker**, and **Socket Programming**  
+💻 Prior experience with **Python**, **C**, **Java**, **HTML**, **CSS**, **JavaScript**  
+🌐 Skilled in **ML**, **DL**, **Software Development** 
 📚 **Undergraduate Degree:** B.Tech in Computer Science from Govt. College of Engineering and Textile Technology, Serampore  
 
 ---
